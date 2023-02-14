@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hithin
-- 👀 I’m interested in Security Analyst 
+- 👀 I’m interested in Software Test Engineer 
 - 🌱 I’m currently learning Msc Cybersecurity 
-- 💞️ I’m looking to collaborate on Cybersecurity Enthusiast
+- 💞️ I’m looking to collaborate on Manual and Automation Testing
 - 📫 How to reach me ...
 
 <!---
