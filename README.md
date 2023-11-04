@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hithin
-- 👀 I’m interested in Software Test Engineer 
-- 🌱 I’m currently learning Msc Cybersecurity 
-- 💞️ I’m looking to collaborate on Manual and Automation Testing
+- 👀 I’m interested in Soc Analyst
+- 🌱 I’m currently learning MSc cybersecurity 
 - 📫 How to reach me ...
 
 <!---
