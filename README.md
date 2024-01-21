@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hithin
 - 👀 I’m interested in Software Test Engineer
-- 🌱
+- 🌱 Manual and Automation Tester
 - 📫 How to reach me ...
 
 <!---
